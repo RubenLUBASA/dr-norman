@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+body {
+    background-color: #afafaf;
+    margin : 50px 100px 50px 100px
+}
+a{
+    color: red;
+}
+h2{
+    color: red;
+}
+
+div.coprs{
+    height: 90vh;
+}
+footer{
+    text-align: center;
+    
+    
+}
